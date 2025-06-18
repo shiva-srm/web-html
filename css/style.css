@@ -1,3 +1,22 @@
+
+.para{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+    font-style: italic;
+    text-align: end;
+}
+.pa{
+    font-size: 50px;
+    font-weight: 900;
+    font-style: italic;
+    text-align: center;
+    line-height: 100px;
+    text-transform: uppercase;
+    text-decoration:underline;
+}
+
+
 p{
     color: brown;
 }
@@ -13,9 +32,4 @@ button{
 }
 #h2{
     color:blueviolet;
-}
-*{
-    margin: 19;
-    padding: 20;
-    color: black;
 }
